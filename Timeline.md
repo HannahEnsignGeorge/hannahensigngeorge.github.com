@@ -16,3 +16,7 @@ A note on choosing your Timeline Topic: while it can be used for events that are
    1. This feature hosts your timeline on the Timeline JS site. While it's here you can make changes on your spreadsheet and preview those changes.
    
 4. Share your Timeline. Yay!
+
+## My Timeline Example ##
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&height=650</iframe>
