@@ -6,12 +6,12 @@ You can use the [editor on GitHub](https://github.com/HannahEnsignGeorge/hannahe
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Timeline JS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Timeline JS is an open-source tool that allows anyone to create content-rcih timelines. 
+Do more than present content, give it to users in an interactive and compelling way.
+1. Media forms you can use in your Timeline include Youtube, Vimeo, Wikipedia articles, tweets, audio files from Soundcloud, and more.
+2. Customize your Timeline, with background colors and images. Use simple html formatting tags to change font size and color.
 
 # Header 1
 ## Header 2
@@ -28,12 +28,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HannahEnsignGeorge/hannahensigngeorge.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
