@@ -12,7 +12,7 @@ Timeline JS is an open-source tool that allows anyone to create content-rcih tim
 Do more than present content, give it to users in an interactive and compelling way.
 1. Media forms you can use in your Timeline include Youtube, Vimeo, Wikipedia articles, tweets, audio files from Soundcloud, and more.
 2. Customize your Timeline, with background colors and images. Use simple html formatting tags to change font size and color.
-3. Visit [Timeline JS] (https://timeline.knightlab.com/#preview-embed)
+3. Visit [Timeline JS](https://timeline.knightlab.com/#preview-embed)
 
 # Header 1
 ## Header 2
