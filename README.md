@@ -2,6 +2,7 @@
 -This is where I am learning how to use GitHub & will be working on some projects.
 --**Soon I will have a tutorial on how to use Timeline JS**
 
+## I'm going to leave this bit in from the original Markdown information until I have a better idea what I'm doing. :smile:
 You can use the [editor on GitHub](https://github.com/HannahEnsignGeorge/hannahensigngeorge.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
