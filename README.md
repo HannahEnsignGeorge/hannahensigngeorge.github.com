@@ -1,5 +1,5 @@
-## Welcome to my GitHub Page!
-This is where I am learning how to use GitHub & will be working on some projects.
+# Welcome to my GitHub Page!
+-This is where I am learning how to use GitHub & will be working on some projects.
 
 You can use the [editor on GitHub](https://github.com/HannahEnsignGeorge/hannahensigngeorge.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
