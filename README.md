@@ -1,5 +1,6 @@
 # Welcome to my GitHub Page!
 -This is where I am learning how to use GitHub & will be working on some projects.
+--**Soon I will have a tutorial on how to use Timeline JS**
 
 You can use the [editor on GitHub](https://github.com/HannahEnsignGeorge/hannahensigngeorge.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
